@@ -11,7 +11,7 @@ I'm
 - Writer✒️
 
 <br />
-<img align="right" height="450px" width="450px" src="https://user-images.githubusercontent.com/53127268/117928315-d178ba00-b314-11eb-8e6b-07cc62625f39.png" />
+<img align="right" height="400px" width="400px" src="https://user-images.githubusercontent.com/53127268/117928315-d178ba00-b314-11eb-8e6b-07cc62625f39.png" />
 <br />
 <p align="center">
   Energetic and passionate university student, and a Python Developer, Data Scientist, Reverse engineer and Malware Analyst currently enrolled in 8th semester having experience of Malware Analysis and reverse engineering @ NCCS. Seeking to use research, explore and learn new skills of computer world.  Writing down what I have learned and sharing it with others is what I love to do. I love to write and speak about new technologies.
