@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Leakage Detection**
 
-- 📫 How to reach me **linkedin.com/in/faraz-ali-arain/**
+- 📫 How to reach me **linkedin.com/in/farazaliarain/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
