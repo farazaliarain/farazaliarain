@@ -2,6 +2,7 @@
 
 I'm
 
+- SOC Analyst 💖
 - Data Scientist 🖥
 - Cyber Security Enthusiast 💖
 - Malware Analyst 🕸
