@@ -19,6 +19,10 @@
 Faraz Ali is also involved in student (tech) communities, he is a Microsoft Learn Student Ambassador.
 </p>
 
+<br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=farazaliarain" alt="Faraz Ali Arain" /> </p>
+<br />
+
 
 <h2><i>💻 Tech Stack</i></h2>
 
@@ -43,18 +47,6 @@ Faraz Ali is also involved in student (tech) communities, he is a Microsoft Lear
 
 
 </table>
-
-<br />
-<br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=farazaliarain" alt="Faraz Ali Arain" /> </p>
-
-<!-- Statistics -->
-
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=farazaliarain&&show_icons=true"/>
-  </a>
-</p>
 
 ---
 ## 🤝🏻 &nbsp;Connect with Me
