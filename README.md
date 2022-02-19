@@ -10,7 +10,6 @@
 - Reverse Engineer 💻 
 - Python Developer 🐍
 - Freelancer 💖
-
 <br />
 <img align="right" height="320px" width="320px" src="https://user-images.githubusercontent.com/53127268/117928315-d178ba00-b314-11eb-8e6b-07cc62625f39.png" />
 <br />
@@ -21,8 +20,6 @@ Faraz Ali is also involved in student (tech) communities, he is a Microsoft Lear
 
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farazaliarain" alt="Faraz Ali Arain" /> </p>
-<br />
-
 
 <h2><i>💻 Tech Stack</i></h2>
 
@@ -86,8 +83,8 @@ Faraz Ali is also involved in student (tech) communities, he is a Microsoft Lear
 
 <p align="center">
 <a href="https://github.com/farazaliarain">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farazaliarain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farazaliarain&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=farazaliarain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farazaliarain&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=farazaliarain&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
