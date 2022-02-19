@@ -40,7 +40,7 @@ Faraz Ali is also involved in student (tech) communities, he is a Microsoft Lear
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android">
     </td>
 </tr>
 <tr>
@@ -48,33 +48,33 @@ Faraz Ali is also involved in student (tech) communities, he is a Microsoft Lear
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60">
     </td>
     <td align='center' width="190">
-        <img src=>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
     </td>
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="60" height="40">
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60" height="40">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60">
     </td>
 </tr>
 <tr>
@@ -85,10 +85,10 @@ Faraz Ali is also involved in student (tech) communities, he is a Microsoft Lear
         <img src="https://buttercms.com/static/images/tech_banners/Flask.png">
     </td>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60" height="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="60" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
@@ -96,7 +96,7 @@ Faraz Ali is also involved in student (tech) communities, he is a Microsoft Lear
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
