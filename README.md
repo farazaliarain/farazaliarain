@@ -16,8 +16,7 @@
 <br />
 
 <p align="center">
-  Faraz Ali is a CS Grad, Data Science enthusiast, Reverse engineer, Malware Analyst, Passionate Programmer with expertise in Python Development, Data Analysis, Desktop applications, and Automation Engineering. He has an interest in Cyber Security and Data Science. With a focus on developing technological innovations to combat Cyber Crime. Being a technical writer and a trainer, he has been writing and also been conducting field-specific workshops on several platforms. He is x6 times certified by Microsoft.
-Faraz Ali is also involved in student (tech) communities, he is a Microsoft Learn Student Ambassador.
+  Faraz Ali is a CS Grad, an Information Security Researcher, Data Science enthusiast, SOC Analyst, Threat Hunter, Incident Responder, Reverse engineer, Malware Analyst, Passionate Programmer with expertise in Python Development, Data Analysis, and Automation Engineering. He has an interest in Cyber Security and Data Science. With a focus on developing technological innovations to combat Cyber Crime. Being a technical writer and a trainer, he has been writing and been conducting field-specific workshops on several platforms. He is x6 times certified by Microsoft. Faraz Ali is also involved in student (tech) communities, he is a Microsoft Learn Student Ambassador & Microsoft Certified Trainer.
 </p>
 
 <br />
