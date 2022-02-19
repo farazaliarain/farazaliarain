@@ -11,7 +11,9 @@
 - Python Developer 🐍
 - Freelancer 💖
 
+<br />
 <img align="right" height="320px" width="320px" src="https://user-images.githubusercontent.com/53127268/117928315-d178ba00-b314-11eb-8e6b-07cc62625f39.png" />
+<br />
 
 <p align="center">
   Faraz Ali is a CS Grad, Data Science enthusiast, Reverse engineer, Malware Analyst, Passionate Programmer with expertise in Python Development, Data Analysis, Desktop applications, and Automation Engineering. He has an interest in Cyber Security and Data Science. With a focus on developing technological innovations to combat Cyber Crime. Being a technical writer and a trainer, he has been writing and also been conducting field-specific workshops on several platforms. He is x6 times certified by Microsoft.
