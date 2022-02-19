@@ -83,8 +83,8 @@ Faraz Ali is also involved in student (tech) communities, he is a Microsoft Lear
 
 <p align="center">
 <a href="https://github.com/farazaliarain">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farazaliarain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farazaliarain&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=farazaliarain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farazaliarain&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=farazaliarain&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
