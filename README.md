@@ -28,7 +28,7 @@ Faraz Ali is also involved in student (tech) communities, he is a Microsoft Lear
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" height="40">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" >
     </td>
     <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
@@ -40,7 +40,7 @@ Faraz Ali is also involved in student (tech) communities, he is a Microsoft Lear
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60">
     </td>
 </tr>
 <tr>
