@@ -2,13 +2,13 @@
 
 ### I'm
 
-- SOC Analyst 🔭
 - Threat Hunter 🕸
 - Incident Responder 🌱
-- Data Scientist 🖥
+- SOC Analyst 🔭
 - Malware Analyst 🕸
 - Reverse Engineer 💻 
 - Python Developer 🐍
+- Data Scientist 🖥
 - Freelancer 💖
 
 <br />
