@@ -22,7 +22,7 @@
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farazaliarain" alt="Faraz Ali Arain" /> </p>
 
-<h2><i>💻 Tech Stack</i></h2>
+<h2><i>💻 Tech Stack </i></h2>
 
 <table width="100">
 <tr>
